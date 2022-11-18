@@ -1,0 +1,40 @@
+body {
+    background-color: #3d3d3f;
+    color: #76879b;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px;
+
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    color: #76879b;
+}
+
+a:hover {
+    color: #f9bf46;
+}
+
+main {
+    text-align: center;
+}
+
+article {
+    font-size: large;
+}
