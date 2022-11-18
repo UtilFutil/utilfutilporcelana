@@ -38,3 +38,8 @@ main {
 article {
     font-size: large;
 }
+
+slider {
+    max-width: 1200px;
+    padding: 10px;
+}
